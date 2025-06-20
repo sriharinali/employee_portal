@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "new",
+      "lastName": "user1",
+      "email": "new@gmail.com",
+      "dob": "2023-03-15T03:00:00.000Z",
+      "gender": "male",
+      "employeeType": "Contract-Basis",
+      "designation": "Senior",
+      "yearsOfExperience": "3",
+      "expectedSalary": "50000",
+      "id": 1
+    },
+    {
+      "firstName": "start",
+      "lastName": "user",
+      "email": "start@gmail.com",
+      "dob": "2023-03-23T03:00:00.000Z",
+      "gender": "female",
+      "employeeType": "Contract-Basis",
+      "designation": "Junior",
+      "yearsOfExperience": "5",
+      "expectedSalary": "200000",
+      "id": 3
+    },
+    {
+      "firstName": "new",
+      "lastName": "user1",
+      "email": "new@gmail.com",
+      "dob": "2023-03-15T03:00:00.000Z",
+      "gender": "male",
+      "employeeType": "Contract-Basis",
+      "designation": "Senior",
+      "yearsOfExperience": "3",
+      "expectedSalary": "50000",
+      "id": 4
+    }
+  ]
+}
